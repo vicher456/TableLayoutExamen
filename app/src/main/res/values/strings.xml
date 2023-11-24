@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TableLayoutExamen</string>
+    <string name="textView1">Crazy Layouts</string>
+    <string name="imageView">Imagen3Puntos</string>
+    <string name="textView2">Producto</string>
+    <string name="textView3">Subtotal</string>
+    <string name="textView4">Jabón de manos x 1</string>
+    <string name="textView5">$2</string>
+    <string name="textView6">Shampoo Monster x 1</string>
+    <string name="textView7">$10</string>
+    <string name="textView8">Pastas Duria x 2</string>
+    <string name="textView9">$18</string>
+    <string name="textView10">Detergente Limpiadin x 1</string>
+    <string name="textView11">$13,4</string>
+    <string name="textView12">$43,4</string>
+    <string name="textView13">Costo envío</string>
+    <string name="textView14">Cupón</string>
+    <string name="textView15">-$5</string>
+    <string name="textView16">Total</string>
+    <string name="textView17">$48,4</string>
+</resources>
